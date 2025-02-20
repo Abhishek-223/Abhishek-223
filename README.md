@@ -12,13 +12,10 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 <ul>
 <li>
-<p>🔭 I’m currently working on  Soy Estudiante</p>
+<p>🔭 I’m currently working on portfolio</p>
 </li>
 <li>
-<p>🌱 I’m currently learning Git, Java y GitHub</p>
-</li>
-<li>
-<p>👯 I’m looking to collaborate on Proyectos</p>
+<p>🌱 I’m currently learning Git, React, GitHub, Express</p>
 </li>
 <li>
 <p>💬 Ask me about Sql, Java, C#, JavaScript</p>

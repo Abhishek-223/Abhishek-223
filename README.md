@@ -1,13 +1,7 @@
-<p align="center">
-  <img width="200" src="https://images.unsplash.com/photo-1581091870622-1e7b2e7b5a57" alt="Developer Banner">
-</p>
-
-<h1> Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1> Hello Fellow &lt; Developers/ &gt;! </h1>
 <p align="center"> 
 
 </p>
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Abhishek-223.Abhishek-223" alt="Profile views">
-<a href="https://github.com/Abhishek-223"><img src="https://img.shields.io/github/followers/Abhishek-223?label=Follow&amp;style=social" alt="Github"></a></p>
 
 <div size="20px" align="center"> 
   👋 Hey there! I’m <b>Abhishek Kumar Sah</b>, a passionate <b>Full-Stack Developer</b> who loves building projects that solve <i>real-world problems</i>.  
